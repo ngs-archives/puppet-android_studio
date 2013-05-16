@@ -1,9 +1,9 @@
-# Android Studio Puppet Module for Boxen
+# [Android Studio](http://developer.android.com/sdk/installing/studio.html) Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include andriod_studio
+include android_studio
 ```
 
 ## Required Puppet Modules
